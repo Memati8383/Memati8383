@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Operating-red?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-System_Optimization-000000?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-TR-ff0000?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Operating-black?style=for-the-badge&logo=statuspage&logoColor=red" />
+  <img src="https://img.shields.io/badge/Focus-System_Optimization-red?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-TR-black?style=for-the-badge&logo=googlemaps&logoColor=red" />
 </p>
 
 <p align="center">
@@ -58,16 +58,16 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
     <td width="50%" valign="top">
       <h4>🤖 Otomasyon & Web Botları</h4>
       <ul>
-        <li><b>WhatsApp-Bot</b> <br><sub>Endüstriyel mesajlaşma ve süreç otomasyonu.</sub></li>
-        <li><b>Instagram-Profile-Info</b> <br><sub>Profil analizi ve veri çekme araçları.</sub></li>
-        <li><b>Discord-Server-Cloner</b> <br><sub>Gelişmiş yapısal klonlama algoritmaları.</sub></li>
+        <li><a href="https://github.com/Memati8383/whatsapp-Bot"><b>WhatsApp-Bot</b></a> <br><sub>Endüstriyel mesajlaşma ve süreç otomasyonu.</sub></li>
+        <li><a href="https://github.com/Memati8383/Instagram-profile-Info"><b>Instagram-Profile-Info</b></a> <br><sub>Profil analizi ve veri çekme araçları.</sub></li>
+        <li><a href="https://github.com/Memati8383/discord-server-cloner"><b>Discord-Server-Cloner</b></a> <br><sub>Gelişmiş yapısal klonlama algoritmaları.</sub></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🛡️ Siber Güvenlik & Network</h4>
       <ul>
-        <li><b>IP Tracer / Port Scanner</b> <br><sub>Ağ analizi ve hedef izleme sistemleri.</sub></li>
-        <li><b>Phish / WiFi-Analyzer</b> <br><sub>Güvenlik açığı tespiti ve ağ penetrasyonu.</sub></li>
+        <li><a href="https://github.com/Memati8383/ip_tracer"><b>IP Tracer</b></a> / <a href="https://github.com/Memati8383/acik-port-bulma"><b>Port Scanner</b></a> <br><sub>Ağ analizi ve hedef izleme sistemleri.</sub></li>
+        <li><a href="https://github.com/Memati8383/phish"><b>Phish</b></a> / <a href="https://github.com/Memati8383/Kayitli-WiFi-Parolalari"><b>WiFi-Analyzer</b></a> <br><sub>Güvenlik açığı tespiti ve ağ penetrasyonu.</sub></li>
       </ul>
     </td>
   </tr>
@@ -75,15 +75,15 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
     <td width="50%" valign="top">
       <h4>💻 UI & Sistem Araçları</h4>
       <ul>
-        <li><b>Advanced-Text-Editor</b> <br><sub>Modern arayüzlü, yüksek performanslı editör.</sub></li>
-        <li><b>System-Cleaner / Speed-Test</b> <br><sub>OS optimizasyon araçları.</sub></li>
+        <li><a href="https://github.com/Memati8383/Advanced-Text-Editor"><b>Advanced-Text-Editor</b></a> <br><sub>Modern arayüzlü, yüksek performanslı editör.</sub></li>
+        <li><a href="https://github.com/Memati8383/sistem_temizleyici"><b>System-Cleaner</b></a> / <a href="https://github.com/Memati8383/internet_speed_test"><b>Speed-Test</b></a> <br><sub>OS optimizasyon araçları.</sub></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🎮 Oyun Geliştirme & AI</h4>
       <ul>
-        <li><b>Niko Engine / RPG Projects</b> <br><sub>Fizik tabanlı motorlar ve AI entegrasyonu.</sub></li>
-        <li><b>RAG Systems</b> <br><sub>Gelişmiş bilgi geri çağırma mimarileri.</sub></li>
+        <li><a href="https://github.com/Memati8383/niko-with-kiro"><b>Niko Engine</b></a> / <a href="https://github.com/Memati8383/PyQuest-RPG"><b>RPG Projects</b></a> <br><sub>Fizik tabanlı motorlar ve AI entegrasyonu.</sub></li>
+        <li><a href="https://github.com/Memati8383/rag"><b>RAG Systems</b></a> <br><sub>Gelişmiş bilgi geri çağırma mimarileri.</sub></li>
       </ul>
     </td>
   </tr>
@@ -109,16 +109,16 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Memati8383&theme=react-dark&bg_color=000000&hide_border=true&color=ff0000" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Memati8383&theme=react-dark&bg_color=000000&hide_border=true&color=ff0000&line=ff0000&point=ffffff" width="100%" />
 </p>
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Memati8383&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Memati8383&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&hide_border=true&border_radius=10" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memati8383&layout=compact&theme=radical&border_radius=10" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memati8383&layout=compact&theme=radical&title_color=ff0000&icon_color=ff0000&hide_border=true&border_radius=10" width="100%" />
     </td>
   </tr>
 </table>
