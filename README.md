@@ -15,10 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="github_banner_memati8383.png" alt="Memati8383 Banner" style="border-radius: 12px; border: 2px solid #ff0000; box-shadow: 0 10px 40px rgba(255, 0, 0, 0.4);" width="100%">
-</p>
-
-<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
 </p>
 
@@ -104,7 +100,7 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
   </tr>
   <tr>
     <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memati8383&repo=Advanced-Text-Editor&theme=radical" width="100%" /></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memati8383&repo=niko&theme=radical" width="100%" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memati8383&repo=niko-with-kiro&theme=radical" width="100%" /></td>
   </tr>
 </table>
 
