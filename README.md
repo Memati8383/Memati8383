@@ -28,10 +28,14 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Activity Snake / Etkinlik Akışı
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Memati8383/Memati8383/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Memati8383/Memati8383/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+<p align="center">
+  <sub><i>Kodlama temposunun görselleştirilmiş hali.</i></sub>
 </p>
 
 ---
