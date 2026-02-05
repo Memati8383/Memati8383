@@ -99,7 +99,7 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
 
 <table width="100%">
   <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memati8383&repo=whatsapp-Bot&theme=radical" width="100%" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memati8383&repo=PyCraft&theme=radical" width="100%" /></td>
     <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memati8383&repo=Instagram-profile-Info&theme=radical" width="100%" /></td>
   </tr>
   <tr>
