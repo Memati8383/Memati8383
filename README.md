@@ -93,20 +93,6 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
   </tr>
 </table>
 
----
-
-### 📂 Proje Kartları
-
-<table width="100%">
-  <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memati8383&repo=PyCraft&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true" width="100%" /></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memati8383&repo=Instagram-profile-Info&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true" width="100%" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memati8383&repo=Advanced-Text-Editor&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true" width="100%" /></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Memati8383&repo=niko-with-kiro&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true" width="100%" /></td>
-  </tr>
-</table>
 
 ---
 
