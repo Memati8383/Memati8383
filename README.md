@@ -102,17 +102,6 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Memati8383&theme=react-dark&bg_color=000000&hide_border=true&color=ff0000&line=ff0000&point=ffffff" width="100%" />
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Memati8383&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memati8383&layout=compact&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10" width="100%" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 🤝 İletişim & Sosyal Medya
