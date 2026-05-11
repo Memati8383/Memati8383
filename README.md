@@ -51,56 +51,124 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=alpinelinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Expert-FF0000?style=for-the-badge&logo=google-gemini&logoColor=white" />
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open_To_Work-YES-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contract-Freelance-black?style=for-the-badge" />
+</div>
 
 ---
 
-### 🚀 Uzmanlık Alanları & Teknik Portfolyo
+### 🚀 Öne Çıkan Projeler & Teknik Portfolyo
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&text=SOFTWARE%20COLLECTION&fontSize=20&fontColor=ff0000" width="100%" />
+</div>
 
 <table align="center" width="100%">
+  <!-- ROW 1 -->
   <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Otomasyon & Web Botları</h4>
-      <ul>
-        <li><a href="https://github.com/Memati8383/whatsapp-Bot"><b>WhatsApp-Bot</b></a> <br><sub>Endüstriyel mesajlaşma ve süreç otomasyonu.</sub></li>
-        <li><a href="https://github.com/Memati8383/Instagram-profile-Info"><b>Instagram-Profile-Info</b></a> <br><sub>Profil analizi ve veri çekme araçları.</sub></li>
-        <li><a href="https://github.com/Memati8383/discord-server-cloner"><b>Discord-Server-Cloner</b></a> <br><sub>Gelişmiş yapısal klonlama algoritmaları.</sub></li>
-      </ul>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://skillicons.dev/icons?i=py,selenium&theme=dark" height="45" /><br>
+      <b>MematiPP</b><br>
+      <sub>Instagram Profil Analiz & Otomasyon</sub><br>
+      <a href="https://github.com/Memati8383/MematiPP">
+        <img src="https://img.shields.io/badge/Görüntüle-red?style=flat-square&logo=github" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ Siber Güvenlik & Network</h4>
-      <ul>
-        <li><a href="https://github.com/Memati8383/ip_tracer"><b>IP Tracer</b></a> / <a href="https://github.com/Memati8383/acik-port-bulma"><b>Port Scanner</b></a> <br><sub>Ağ analizi ve hedef izleme sistemleri.</sub></li>
-        <li><a href="https://github.com/Memati8383/phish"><b>Phish</b></a> / <a href="https://github.com/Memati8383/Kayitli-WiFi-Parolalari"><b>WiFi-Analyzer</b></a> <br><sub>Güvenlik açığı tespiti ve ağ penetrasyonu.</sub></li>
-      </ul>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://skillicons.dev/icons?i=ai,py&theme=dark" height="45" /><br>
+      <b>Niko with Gemini</b><br>
+      <sub>AI Destekli Gelişmiş Asistan Modeli</sub><br>
+      <a href="https://github.com/Memati8383/niko-with-gemini">
+        <img src="https://img.shields.io/badge/Görüntüle-red?style=flat-square&logo=github" />
+      </a>
     </td>
   </tr>
+  <!-- ROW 2 -->
   <tr>
-    <td width="50%" valign="top">
-      <h4>💻 UI & Sistem Araçları</h4>
-      <ul>
-        <li><a href="https://github.com/Memati8383/Advanced-Text-Editor"><b>Advanced-Text-Editor</b></a> <br><sub>Modern arayüzlü, yüksek performanslı editör.</sub></li>
-        <li><a href="https://github.com/Memati8383/sistem_temizleyici"><b>System-Cleaner</b></a> / <a href="https://github.com/Memati8383/internet_speed_test"><b>Speed-Test</b></a> <br><sub>OS optimizasyon araçları.</sub></li>
-      </ul>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://skillicons.dev/icons?i=py,discord&theme=dark" height="45" /><br>
+      <b>Instagram-Profile-Info</b><br>
+      <sub>Derinlemesine Profil Veri Madenciliği</sub><br>
+      <a href="https://github.com/Memati8383/Instagram-profile-Info">
+        <img src="https://img.shields.io/badge/Görüntüle-red?style=flat-square&logo=github" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h4>🎮 Oyun Geliştirme & AI</h4>
-      <ul>
-        <li><a href="https://github.com/Memati8383/niko-with-kiro"><b>Niko Engine</b></a> / <a href="https://github.com/Memati8383/PyQuest-RPG"><b>RPG Projects</b></a> <br><sub>Fizik tabanlı motorlar ve AI entegrasyonu.</sub></li>
-        <li><a href="https://github.com/Memati8383/rag"><b>RAG Systems</b></a> <br><sub>Gelişmiş bilgi geri çağırma mimarileri.</sub></li>
-      </ul>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://skillicons.dev/icons?i=py,qt&theme=dark" height="45" /><br>
+      <b>Advanced-Text-Editor</b><br>
+      <sub>Yüksek Performanslı Kod Düzenleyici</sub><br>
+      <a href="https://github.com/Memati8383/Advanced-Text-Editor">
+        <img src="https://img.shields.io/badge/Görüntüle-red?style=flat-square&logo=github" />
+      </a>
+    </td>
+  </tr>
+  <!-- ROW 3 -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://skillicons.dev/icons?i=py,linux&theme=dark" height="45" /><br>
+      <b>Video İndirici</b><br>
+      <sub>Çok Platformlu Medya İndirme Aracı</sub><br>
+      <a href="https://github.com/Memati8383/memati-video-indirici">
+        <img src="https://img.shields.io/badge/Görüntüle-red?style=flat-square&logo=github" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://skillicons.dev/icons?i=py,unity&theme=dark" height="45" /><br>
+      <b>PyCraft</b><br>
+      <sub>Python Tabanlı Minecraft Simülasyonu</sub><br>
+      <a href="https://github.com/Memati8383/PyCraft">
+        <img src="https://img.shields.io/badge/Görüntüle-red?style=flat-square&logo=github" />
+      </a>
+    </td>
+  </tr>
+  <!-- ROW 4 -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://skillicons.dev/icons?i=py,windows&theme=dark" height="45" /><br>
+      <b>System-Cleaner</b><br>
+      <sub>OS Optimizasyon & Temizlik Aracı</sub><br>
+      <a href="https://github.com/Memati8383/sistem_temizleyici">
+        <img src="https://img.shields.io/badge/Görüntüle-red?style=flat-square&logo=github" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://skillicons.dev/icons?i=py,cs&theme=dark" height="45" /><br>
+      <b>Bilardo</b><br>
+      <sub>Fizik Tabanlı Gerçekçi Oyun Motoru</sub><br>
+      <a href="https://github.com/Memati8383/Bilardo">
+        <img src="https://img.shields.io/badge/Görüntüle-red?style=flat-square&logo=github" />
+      </a>
     </td>
   </tr>
 </table>
 
-
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 Veri Odaklı Performans Analizi
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Memati8383&theme=radical&background=000000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakLabel=ff0000&hide_border=true" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Memati8383&theme=react-dark&bg_color=000000&hide_border=true&color=ff0000&line=ff0000&point=ffffff" width="100%" />
-</p>
+</div>
+
+<br>
 
 ---
 
