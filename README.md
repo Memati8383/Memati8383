@@ -156,13 +156,15 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
 
 ---
 
-### 📊 Veri Odaklı Performans Analizi
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Memati8383&theme=radical&background=000000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakLabel=ff0000&hide_border=true" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=45&text=VERI%20ODAKLI%20PERFORMANS%20ANALIZI&fontSize=20&fontColor=ff0000" width="100%" />
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Memati8383&theme=radical&background=000000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakLabel=ff0000&hide_border=true&locale=tr" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Memati8383&theme=react-dark&bg_color=000000&hide_border=true&color=ff0000&line=ff0000&point=ffffff" width="100%" />
