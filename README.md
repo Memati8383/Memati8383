@@ -34,6 +34,39 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
   <img src="https://raw.githubusercontent.com/Memati8383/Memati8383/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/Memati8383">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Memati8383&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Memati8383's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Memati8383&theme=dark&hide_border=true&cache_seconds=86400" alt="Memati8383's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Memati8383&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Emre Göksu's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Memati8383&theme=dark&radius=10" alt="Memati8383's Activity Graph" />
+</p>
+<p align="center">
+  <a href="https://github.com/Memati8383">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Memati8383&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+<br>
+
 <p align="center">
   <sub><i>Kodlama temposunun görselleştirilmiş hali.</i></sub>
 </p>
@@ -174,48 +207,6 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <a href="https://github.com/Memati8383">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Memati8383&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Memati8383's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Memati8383&theme=dark&hide_border=true&cache_seconds=86400" alt="Memati8383's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Memati8383&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Emre Göksu's GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Memati8383&theme=dark&radius=10" alt="Memati8383's Activity Graph" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Memati8383">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Memati8383&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<br>
-
----
 ### 🤝 İletişim & Sosyal Medya
 
 <p align="center">
