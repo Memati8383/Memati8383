@@ -34,7 +34,6 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
   <img src="https://raw.githubusercontent.com/Memati8383/Memati8383/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
-
 <p align="center">
   <a href="https://github.com/Memati8383">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Memati8383&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Memati8383's GitHub Stats" />
@@ -42,10 +41,7 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
   <img src="https://streak-stats.demolab.com/?user=Memati8383&theme=dark&hide_border=true&cache_seconds=86400" alt="Memati8383's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Memati8383&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Emre Göksu's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Memati8383&theme=dark&radius=10" alt="Memati8383's Activity Graph" />
+  <img src="https://trophy.ryglcloud.net/?username=Memati8383&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Memati8383 GitHub trophies" />
 </p>
 <p align="center">
   <a href="https://github.com/Memati8383">
@@ -195,16 +191,6 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Memati8383&theme=radical&background=000000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakLabel=ff0000&hide_border=true&locale=tr" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Memati8383&theme=react-dark&bg_color=000000&hide_border=true&color=ff0000&line=ff0000&point=ffffff" width="100%" />
-</div>
-
-<br>
-
 ---
 
 ### 🤝 İletişim & Sosyal Medya
@@ -219,17 +205,8 @@ Python ekosisteminde uzmanlaşmış, **siber güvenlik araçları**, **gelişmi�
   <a href="https://t.me/AlemdarFerit" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@baysecurity0" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Memati8383&color=ff0000&style=flat-square&label=PROFIL%20GORUNTULENME" alt="Memati8383" />
 </p>
 
 <div align="right">
 <sub>*Her satır kod, bir imza değerindedir.*</sub>
-</div>
-
 </div>
