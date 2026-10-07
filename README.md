@@ -109,11 +109,11 @@ optimize etmeye ve modern estetikle fonksiyonelliği harmanlamaya odaklanıyorum
   <tr>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="45" alt="" /><br />
-      <b>MematiPP</b><br />
-      <sub>Modern HD Profil Görüntüleyici (Node.js)</sub><br />
-      <a href="https://github.com/Memati8383/MematiPP" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="MematiPP" />
+      <img src="https://skillicons.dev/icons?i=kotlin,android&theme=dark" height="45" alt="" /><br />
+      <b>WhatsApp Profile Viewer</b><br />
+      <sub>Kotlin ile Profil Görüntüleme Uygulaması</sub><br />
+      <a href="https://github.com/Memati8383/WhatsAppProfileViewer" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="WhatsAppProfileViewer" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
@@ -130,20 +130,20 @@ optimize etmeye ve modern estetikle fonksiyonelliği harmanlamaya odaklanıyorum
   <tr>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=py,ai&theme=dark" height="45" alt="" /><br />
-      <b>RAG Doküman Asistanı</b><br />
-      <sub>Doküman Tabanlı Soru-Cevap Mimarisi</sub><br />
-      <a href="https://github.com/Memati8383/rag" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="rag" />
+      <img src="https://skillicons.dev/icons?i=cpp,c,hlsl,unity&theme=dark" height="45" alt="" /><br />
+      <b>Gazze Mobil Oyun</b><br />
+      <sub>HLSL Shader'larla Geliştirilen 3B Mobil Oyun</sub><br />
+      <a href="https://github.com/Memati8383/gazze" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="gazze" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=js,html,css,py&theme=dark" height="45" alt="" /><br />
-      <b>Memati Video İndirici</b><br />
-      <sub>Bot Engeli Aşan Çok Platformlu Medya İndirici</sub><br />
-      <a href="https://github.com/Memati8383/memati-video-indirici" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="memati-video-indirici" />
+      <img src="https://skillicons.dev/icons?i=py,linux&theme=dark" height="45" alt="" /><br />
+      <b>IP Tracer</b><br />
+      <sub>IP Adresinden Konum ve Ağ Bilgisi Sorgulama Aracı</sub><br />
+      <a href="https://github.com/Memati8383/ip_tracer" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="ip_tracer" />
       </a>
     </td>
   </tr>
