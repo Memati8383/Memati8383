@@ -88,18 +88,18 @@ optimize etmeye ve modern estetikle fonksiyonelliği harmanlamaya odaklanıyorum
   <tr>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=py,selenium&theme=dark" height="45" alt="" /><br />
-      <b>MematiPP</b><br />
-      <sub>Instagram Profil Analiz &amp; Otomasyon</sub><br />
-      <a href="https://github.com/Memati8383/MematiPP" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="MematiPP" />
+      <img src="https://skillicons.dev/icons?i=cpp,cmake,windows&theme=dark" height="45" alt="" /><br />
+      <b>Tengri</b><br />
+      <sub>C++ / DirectX 11 Sistem Optimizasyon Motoru</sub><br />
+      <a href="https://github.com/Memati8383/Tengri" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="Tengri" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=ai,py&theme=dark" height="45" alt="" /><br />
+      <img src="https://skillicons.dev/icons?i=ai,py,supabase&theme=dark" height="45" alt="" /><br />
       <b>Niko with Gemini</b><br />
-      <sub>AI Destekli Gelişmiş Asistan Modeli</sub><br />
+      <sub>Gemini + Supabase Destekli AI Asistan Ekosistemi</sub><br />
       <a href="https://github.com/Memati8383/niko-with-gemini" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="Niko with Gemini" />
       </a>
@@ -109,20 +109,20 @@ optimize etmeye ve modern estetikle fonksiyonelliği harmanlamaya odaklanıyorum
   <tr>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=py,discord&theme=dark" height="45" alt="" /><br />
-      <b>Instagram-Profile-Info</b><br />
-      <sub>Derinlemesine Profil Veri Madenciliği</sub><br />
-      <a href="https://github.com/Memati8383/Instagram-profile-Info" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="Instagram-Profile-Info" />
+      <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="45" alt="" /><br />
+      <b>MematiPP</b><br />
+      <sub>Modern HD Profil Görüntüleyici (Node.js)</sub><br />
+      <a href="https://github.com/Memati8383/MematiPP" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="MematiPP" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=py,qt&theme=dark" height="45" alt="" /><br />
-      <b>Advanced-Text-Editor</b><br />
-      <sub>Yüksek Performanslı Kod Düzenleyici</sub><br />
-      <a href="https://github.com/Memati8383/Advanced-Text-Editor" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="Advanced-Text-Editor" />
+      <img src="https://skillicons.dev/icons?i=py,ai,fastapi&theme=dark" height="45" alt="" /><br />
+      <b>Atatürk AI Voice</b><br />
+      <sub>RVC ile Yeniden Üretilmiş Yapay Zekâ Sesi</sub><br />
+      <a href="https://github.com/Memati8383/Ataturk-AI-Voice" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="Ataturk-AI-Voice" />
       </a>
     </td>
   </tr>
@@ -130,20 +130,20 @@ optimize etmeye ve modern estetikle fonksiyonelliği harmanlamaya odaklanıyorum
   <tr>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=py,linux&theme=dark" height="45" alt="" /><br />
-      <b>Video İndirici</b><br />
-      <sub>Çok Platformlu Medya İndirme Aracı</sub><br />
-      <a href="https://github.com/Memati8383/memati-video-indirici" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="Video İndirici" />
+      <img src="https://skillicons.dev/icons?i=py,ai&theme=dark" height="45" alt="" /><br />
+      <b>RAG Doküman Asistanı</b><br />
+      <sub>Doküman Tabanlı Soru-Cevap Mimarisi</sub><br />
+      <a href="https://github.com/Memati8383/rag" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="rag" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=py,unity&theme=dark" height="45" alt="" /><br />
-      <b>PyCraft</b><br />
-      <sub>Python Tabanlı Minecraft Simülasyonu</sub><br />
-      <a href="https://github.com/Memati8383/PyCraft" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="PyCraft" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,py&theme=dark" height="45" alt="" /><br />
+      <b>Memati Video İndirici</b><br />
+      <sub>Bot Engeli Aşan Çok Platformlu Medya İndirici</sub><br />
+      <a href="https://github.com/Memati8383/memati-video-indirici" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="memati-video-indirici" />
       </a>
     </td>
   </tr>
@@ -151,20 +151,62 @@ optimize etmeye ve modern estetikle fonksiyonelliği harmanlamaya odaklanıyorum
   <tr>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=py,windows&theme=dark" height="45" alt="" /><br />
-      <b>System-Cleaner</b><br />
-      <sub>OS Optimizasyon &amp; Temizlik Aracı</sub><br />
-      <a href="https://github.com/Memati8383/sistem_temizleyici" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="System-Cleaner" />
+      <img src="https://skillicons.dev/icons?i=kotlin,android&theme=dark" height="45" alt="" /><br />
+      <b>ScreenShareApp</b><br />
+      <sub>WebRTC ile Gerçek Zamanlı Ekran Paylaşımı</sub><br />
+      <a href="https://github.com/Memati8383/ScreenShareApp" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="ScreenShareApp" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=py,cs&theme=dark" height="45" alt="" /><br />
-      <b>Bilardo</b><br />
-      <sub>Fizik Tabanlı Gerçekçi Oyun Motoru</sub><br />
-      <a href="https://github.com/Memati8383/Bilardo" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="Bilardo" />
+      <img src="https://skillicons.dev/icons?i=kotlin,android&theme=dark" height="45" alt="" /><br />
+      <b>AutoClicker</b><br />
+      <sub>Otomatik Tıklama &amp; Makro Kayıt Uygulaması</sub><br />
+      <a href="https://github.com/Memati8383/AutoClicker" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="AutoClicker" />
+      </a>
+    </td>
+  </tr>
+  <!-- ROW 5 -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <img src="https://skillicons.dev/icons?i=html,css,js,py&theme=dark" height="45" alt="" /><br />
+      <b>Film İzle HD</b><br />
+      <sub>Reklamsız Full HD Yayın Platformu Arayüzü</sub><br />
+      <a href="https://github.com/Memati8383/film-izle-hd" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="film-izle-hd" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <img src="https://skillicons.dev/icons?i=py&theme=dark" height="45" alt="" /><br />
+      <b>Advanced Text Editor</b><br />
+      <sub>Yüksek Performanslı Masaüstü Metin Düzenleyici</sub><br />
+      <a href="https://github.com/Memati8383/Advanced-Text-Editor" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="Advanced-Text-Editor" />
+      </a>
+    </td>
+  </tr>
+  <!-- ROW 6 -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <img src="https://skillicons.dev/icons?i=py&theme=dark" height="45" alt="" /><br />
+      <b>PyCraft</b><br />
+      <sub>Açık Kaynaklı Minecraft Klonu (Ursina Engine)</sub><br />
+      <a href="https://github.com/Memati8383/PyCraft" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="PyCraft" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <img src="https://skillicons.dev/icons?i=py,pygame&theme=dark" height="45" alt="" /><br />
+      <b>PyQuest RPG</b><br />
+      <sub>Görev ve Seviye Sistemli Python RPG Oyunu</sub><br />
+      <a href="https://github.com/Memati8383/PyQuest-RPG" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BCle-red?style=flat-square&logo=github" alt="PyQuest-RPG" />
       </a>
     </td>
   </tr>
