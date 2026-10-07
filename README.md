@@ -109,7 +109,7 @@ optimize etmeye ve modern estetikle fonksiyonelliği harmanlamaya odaklanıyorum
   <tr>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=kotlin,android&theme=dark" height="45" alt="" /><br />
+      <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="45" alt="" /><br />
       <b>WhatsApp Profile Viewer</b><br />
       <sub>Kotlin ile Profil Görüntüleme Uygulaması</sub><br />
       <a href="https://github.com/Memati8383/WhatsAppProfileViewer" target="_blank" rel="noopener">
@@ -151,7 +151,7 @@ optimize etmeye ve modern estetikle fonksiyonelliği harmanlamaya odaklanıyorum
   <tr>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=kotlin,android&theme=dark" height="45" alt="" /><br />
+      <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="45" alt="" /><br />
       <b>ScreenShareApp</b><br />
       <sub>WebRTC ile Gerçek Zamanlı Ekran Paylaşımı</sub><br />
       <a href="https://github.com/Memati8383/ScreenShareApp" target="_blank" rel="noopener">
@@ -160,7 +160,7 @@ optimize etmeye ve modern estetikle fonksiyonelliği harmanlamaya odaklanıyorum
     </td>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=kotlin,android&theme=dark" height="45" alt="" /><br />
+      <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="45" alt="" /><br />
       <b>AutoClicker</b><br />
       <sub>Otomatik Tıklama &amp; Makro Kayıt Uygulaması</sub><br />
       <a href="https://github.com/Memati8383/AutoClicker" target="_blank" rel="noopener">
@@ -202,7 +202,7 @@ optimize etmeye ve modern estetikle fonksiyonelliği harmanlamaya odaklanıyorum
     </td>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=py,pygame&theme=dark" height="45" alt="" /><br />
+      <img src="https://skillicons.dev/icons?i=py&theme=dark" height="45" alt="" /><br />
       <b>PyQuest RPG</b><br />
       <sub>Görev ve Seviye Sistemli Python RPG Oyunu</sub><br />
       <a href="https://github.com/Memati8383/PyQuest-RPG" target="_blank" rel="noopener">
